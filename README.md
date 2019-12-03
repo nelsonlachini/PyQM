@@ -12,4 +12,4 @@ x_ho_metropolis_improved.py : Implementation of a Metropolis algorithm for compu
 
 x^3_ho_metropolis.py : Implementation of a Metropolis algorithm for computing the first energy gap of a quantum anharmonic(x^3) oscillator.
 
-ho_vegas.py : Implementation of an multidimensional integration using Lepage's vegas (https://github.com/gplepage/vegas) for estimating the quantum harmonic oscilattor propagator.
+ho_vegas.py : Implementation of an multidimensional integration using Lepage's vegas (https://github.com/gplepage/vegas) for estimating the quantum harmonic oscillator propagator.
